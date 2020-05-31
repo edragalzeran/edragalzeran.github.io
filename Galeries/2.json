@@ -1,0 +1,43 @@
+﻿{
+  "Id": 2,
+  "Cita": "En medio de un caos caprichoso de árboles vestidos, de enredaderas que serpentean, de hojas, de agua, de tierra y barro, el monstruo acecha en el claroscuro del bosque.",
+  "LiniesText": [
+"Con este proyecto intento sumergirme en el poliédrico concepto de \"monstruo\", en sus múltiples significados y en su evolución a lo largo del tiempo. Mis imágenes no buscan la lectura unívoca, sino que deliberadamente son ambiguas y oscilan entre la antigüedad y la modernidad, la realidad y la fantasía, lo visible y lo oculto.",
+"Un monstruo es aquel que muestra, aquel que advierte, aquel que no se puede nombrar, aquel que escapa del orden natural al que se aferra tan solo por un hilo que se ensancha a medida que la luz llega a la mente. Entonces se hace lenguaje y los mitos antiguos se adaptan a los nuevos tiempos dando fe de la moral, de los cambios existenciales, de los miedos a los que las sociedades se enfrentan. El monstruo se convertirá en su reflejo, también en su herramienta."
+  ],
+  "Imatges": [
+    {
+      "UrlImatge": "Monstre/mons1.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons2.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons3.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons5.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons6.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons7.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons8.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons9.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons10.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons11.jpg"
+    },
+    {
+      "UrlImatge": "Monstre/mons12.jpg"
+    }
+  ]
+}
