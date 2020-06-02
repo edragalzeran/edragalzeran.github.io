@@ -1,0 +1,27 @@
+{
+  "PROJECTES": {
+    "ES": "PROYECTOS",
+    "CA": "PROJECTES",
+    "EN": "PROJECTS"
+  },
+  "CONTACTE": {
+    "ES": "CONTACTO",
+    "CA": "CONTACTE",
+    "EN": "CONTACT"
+  },
+  "BIO": {
+    "ES": "BIO",
+    "CA": "BIO",
+    "EN": "BIO"
+  },
+  "Copyright": {
+    "ES": "all images copyright Edra Galzeran all rights reserved.",
+    "CA": "all images copyright Edra Galzeran all rights reserved.",
+    "EN": "all images copyright Edra Galzeran all rights reserved."
+  },
+  "info": {
+    "CA": "info",
+    "ES": "info",
+    "EN": "info"
+  }
+}

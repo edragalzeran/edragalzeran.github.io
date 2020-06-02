@@ -1,66 +1,108 @@
 ﻿{
   "Id": 1,
-  "Cita": "Il me semble que la misère serait moins pénible au soleil",
-  "LiniesText": [
-    "Moroz no es un frío de estos lares, su danza macabra se inicia al cruzar el umbral de los cero grados, primer peldaño de una escalera marmórea de cincuenta escalones que desciende, grado a grado, adjetivo a adjetivo, hacia un infierno de hielo.",
-    "El mío es un paseo visual y emocional por el frío, la nieve, el silencio, la fragilidad.",
-    "Hoy es una mañana de invierno. El termómetro marca -15. Es un frío serio. Continuará siéndolo hasta los -22. Después se tornará crudo, inclemente, y sólo a partir de los -44 podremos considerarlo extremo. Oy, moroz, moroz!",
-    "La nieve cruje al salir de casa. Unos tacones hacen equilibrios sobre la superficie helada, sortean carámbanos, humea el alcantarillado. Una bola de pelo grueso rezonga, se retuerce y comienza a caminar bajo la atenta mirada de un cuervo. Ruido de coches.",
-    "Desciendo la Lysa Hora, la montaña calva, la montaña mágica y llego a Podil, el barrio a orillas del Dniéper.",
-    "El bullicio me envuelve en la Nizhni val, una rambla como las nuestras.",
-    "Una anciana con su platok en la cabeza vende un trozo de carne, dos tarros de miel, unos ajos; un anciano ofrece a buen precio unas perchas, un cepillo. Más allá un grupo de gente se arremolina ante las puertas de un viejo camión. Compran vísceras mientras un viento gélido que huele a río azota cual látigo. Sensación térmica: -20.",
-    "Los vendedores no se mueven, no se moverán, como cada día, como siempre, desde las 8 de la mañana. Nadie abandonará la calle hasta que el sol no se esconda tras el cerro.",
-    "En el puerto fluvial todo calla.",
-    "Camino unos cien metros, unos barracones. Una mujer dormita a la intemperie. El sol, aquella caricia. Las tuberías gotean sólido.",
-    "Una neblina empieza a brotar. El frío ahora a caballo.",
-    "Escaleras repletas de nieve y el río helado, mudo. En la lejanía, el maestro y Margarita junto a la Trukhanov, la isla de los perros.",
-    "Pisar el agua y el silencio.",
-    "Los enamorados ahora de cerca, mi mirada indiscreta.",
-    "Son las dos: penumbra, agua blanca, agua negra, plastilina, cristales rotos.",
-    "Un barco, el Bogdan Khmelnitski, el gran atamán cosaco, la leyenda, el mito, varado en el hielo."
-  ],
-  "Imatges": [
-    {
-      "UrlImatge": "Moroz/Moroz1.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz4.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz5.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz8.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz10.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz11.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz12.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz13.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz14.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz15.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz16.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz17.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz18.jpg"
-    },
-    {
-      "UrlImatge": "Moroz/Moroz19.jpg"
-    }
-  ]
-}
+  "Cita": {
+    "ES": "Il me semble que la misère serait moins pénible au soleil",
+    "CA": "Il me semble que la misère serait moins pénible au soleil",
+    "EN": "Il me semble que la misère serait moins pénible au soleil"
+  },
+  "LiniesText": {
+    "ES": [
+      "Moroz no es un frío de estos lares, su danza macabra se inicia al cruzar el umbral de los cero grados, primer peldaño de una escalera marmórea de cincuenta escalones que desciende, grado a grado, adjetivo a adjetivo, hacia un infierno de hielo.",
+      "El mío es un paseo visual y emocional por el frío, la nieve, el silencio, la fragilidad.",
+      "Hoy es una mañana de invierno. El termómetro marca -15. Es un frío serio. Continuará siéndolo hasta los -22. Después se tornará crudo, inclemente, y sólo a partir de los -44 podremos considerarlo extremo. Oy, moroz, moroz!",
+      "La nieve cruje al salir de casa. Unos tacones hacen equilibrios sobre la superficie helada, sortean carámbanos, humea el alcantarillado. Una bola de pelo grueso rezonga, se retuerce y comienza a caminar bajo la atenta mirada de un cuervo. Ruido de coches.",
+      "Desciendo la Lysa Hora, la montaña calva, la montaña mágica y llego a Podil, el barrio a orillas del Dniéper.",
+      "El bullicio me envuelve en la Nizhni val, una rambla como las nuestras.",
+      "Una anciana con su platok en la cabeza vende un trozo de carne, dos tarros de miel, unos ajos; un anciano ofrece a buen precio unas perchas, un cepillo. Más allá un grupo de gente se arremolina ante las puertas de un viejo camión. Compran vísceras mientras un viento gélido que huele a río azota cual látigo. Sensación térmica: -20.",
+      "Los vendedores no se mueven, no se moverán, como cada día, como siempre, desde las 8 de la mañana. Nadie abandonará la calle hasta que el sol no se esconda tras el cerro.",
+      "En el puerto fluvial todo calla.",
+      "Camino unos cien metros, unos barracones. Una mujer dormita a la intemperie. El sol, aquella caricia. Las tuberías gotean sólido.",
+      "Una neblina empieza a brotar. El frío ahora a caballo.",
+      "Escaleras repletas de nieve y el río helado, mudo. En la lejanía, el maestro y Margarita junto a la Trukhanov, la isla de los perros.",
+      "Pisar el agua y el silencio.",
+      "Los enamorados ahora de cerca, mi mirada indiscreta.",
+      "Son las dos: penumbra, agua blanca, agua negra, plastilina, cristales rotos.",
+      "Un barco, el Bogdan Khmelnitski, el gran atamán cosaco, la leyenda, el mito, varado en el hielo."
+    ],
+    "CA": [
+      "Moroz no es un frío de estos lares, su danza macabra se inicia al cruzar el umbral de los cero grados, primer peldaño de una escalera marmórea de cincuenta escalones que desciende, grado a grado, adjetivo a adjetivo, hacia un infierno de hielo.",
+      "El mío es un paseo visual y emocional por el frío, la nieve, el silencio, la fragilidad.",
+      "Hoy es una mañana de invierno. El termómetro marca -15. Es un frío serio. Continuará siéndolo hasta los -22. Después se tornará crudo, inclemente, y sólo a partir de los -44 podremos considerarlo extremo. Oy, moroz, moroz!",
+      "La nieve cruje al salir de casa. Unos tacones hacen equilibrios sobre la superficie helada, sortean carámbanos, humea el alcantarillado. Una bola de pelo grueso rezonga, se retuerce y comienza a caminar bajo la atenta mirada de un cuervo. Ruido de coches.",
+      "Desciendo la Lysa Hora, la montaña calva, la montaña mágica y llego a Podil, el barrio a orillas del Dniéper.",
+      "El bullicio me envuelve en la Nizhni val, una rambla como las nuestras.",
+      "Una anciana con su platok en la cabeza vende un trozo de carne, dos tarros de miel, unos ajos; un anciano ofrece a buen precio unas perchas, un cepillo. Más allá un grupo de gente se arremolina ante las puertas de un viejo camión. Compran vísceras mientras un viento gélido que huele a río azota cual látigo. Sensación térmica: -20.",
+      "Los vendedores no se mueven, no se moverán, como cada día, como siempre, desde las 8 de la mañana. Nadie abandonará la calle hasta que el sol no se esconda tras el cerro.",
+      "En el puerto fluvial todo calla.",
+      "Camino unos cien metros, unos barracones. Una mujer dormita a la intemperie. El sol, aquella caricia. Las tuberías gotean sólido.",
+      "Una neblina empieza a brotar. El frío ahora a caballo.",
+      "Escaleras repletas de nieve y el río helado, mudo. En la lejanía, el maestro y Margarita junto a la Trukhanov, la isla de los perros.",
+      "Pisar el agua y el silencio.",
+      "Los enamorados ahora de cerca, mi mirada indiscreta.",
+      "Son las dos: penumbra, agua blanca, agua negra, plastilina, cristales rotos.",
+      "Un barco, el Bogdan Khmelnitski, el gran atamán cosaco, la leyenda, el mito, varado en el hielo."
+    ],
+    "EN": [
+      "Moroz no es un frío de estos lares, su danza macabra se inicia al cruzar el umbral de los cero grados, primer peldaño de una escalera marmórea de cincuenta escalones que desciende, grado a grado, adjetivo a adjetivo, hacia un infierno de hielo.",
+      "El mío es un paseo visual y emocional por el frío, la nieve, el silencio, la fragilidad.",
+      "Hoy es una mañana de invierno. El termómetro marca -15. Es un frío serio. Continuará siéndolo hasta los -22. Después se tornará crudo, inclemente, y sólo a partir de los -44 podremos considerarlo extremo. Oy, moroz, moroz!",
+      "La nieve cruje al salir de casa. Unos tacones hacen equilibrios sobre la superficie helada, sortean carámbanos, humea el alcantarillado. Una bola de pelo grueso rezonga, se retuerce y comienza a caminar bajo la atenta mirada de un cuervo. Ruido de coches.",
+      "Desciendo la Lysa Hora, la montaña calva, la montaña mágica y llego a Podil, el barrio a orillas del Dniéper.",
+      "El bullicio me envuelve en la Nizhni val, una rambla como las nuestras.",
+      "Una anciana con su platok en la cabeza vende un trozo de carne, dos tarros de miel, unos ajos; un anciano ofrece a buen precio unas perchas, un cepillo. Más allá un grupo de gente se arremolina ante las puertas de un viejo camión. Compran vísceras mientras un viento gélido que huele a río azota cual látigo. Sensación térmica: -20.",
+      "Los vendedores no se mueven, no se moverán, como cada día, como siempre, desde las 8 de la mañana. Nadie abandonará la calle hasta que el sol no se esconda tras el cerro.",
+      "En el puerto fluvial todo calla.",
+      "Camino unos cien metros, unos barracones. Una mujer dormita a la intemperie. El sol, aquella caricia. Las tuberías gotean sólido.",
+      "Una neblina empieza a brotar. El frío ahora a caballo.",
+      "Escaleras repletas de nieve y el río helado, mudo. En la lejanía, el maestro y Margarita junto a la Trukhanov, la isla de los perros.",
+      "Pisar el agua y el silencio.",
+      "Los enamorados ahora de cerca, mi mirada indiscreta.",
+      "Son las dos: penumbra, agua blanca, agua negra, plastilina, cristales rotos.",
+      "Un barco, el Bogdan Khmelnitski, el gran atamán cosaco, la leyenda, el mito, varado en el hielo."
+    ]
+  },
+    "Imatges": [
+      {
+        "UrlImatge": "Moroz/Moroz1.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz4.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz5.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz8.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz10.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz11.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz12.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz13.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz14.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz15.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz16.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz17.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz18.jpg"
+      },
+      {
+        "UrlImatge": "Moroz/Moroz19.jpg"
+      }
+    ]
+  }

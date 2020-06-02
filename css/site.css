@@ -24,10 +24,12 @@ container {
 
 .btn-link {
     color: gray;
+    cursor: pointer;
 }
 
 a {
     color: black;
+    cursor: pointer;
 }
 
 .btn-primary {
@@ -56,7 +58,7 @@ app {
 
 .imatge {
     margin-top: 3rem;
-    height: 60vh; 
+    height: 70vh; 
     object-fit: scale-down;
     width: 100%;
 }

@@ -1,18 +1,34 @@
 ﻿[
   {
-    "Titol": "Moroz",
+    "Titol": {
+      "ES": "Moroz",
+      "EN": "Moroz",
+      "CA": "Moroz"
+    },
     "Id": 1
- },
+  },
   {
-    "Titol": "El monstre",
+    "Titol": {
+      "CA": "El monstre",
+      "ES": "El monstruo",
+      "EN": "The monster"
+    },
     "Id": 2
   },
   {
-    "Titol": "Retrats",
+    "Titol": {
+      "CA": "Retrats",
+      "ES": "Retrats",
+      "EN": "Retrats"
+    },
     "Id": 3
   },
   {
-    "Titol": "Petricor",
+    "Titol": {
+      "CA": "Petricor",
+      "ES": "Petricor",
+      "EN": "Petricor"
+    },
     "Id": 4
   }
 ]
