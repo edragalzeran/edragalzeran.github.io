@@ -23,5 +23,10 @@
     "CA": "info",
     "ES": "info",
     "EN": "info"
-  }
+  },
+  "Curriculum": {
+    "CA": "Currículum Vitae",
+    "ES": "Currículum Vitae",
+    "EN": "Curriculum Vitae"
+  } 
 }
