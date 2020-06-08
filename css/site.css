@@ -59,7 +59,7 @@ app {
 
 
  .cita {
-    float: right;
+    text-align: right;
      font-style: italic;
      width: 100%;
 }
