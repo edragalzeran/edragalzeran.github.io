@@ -18,8 +18,8 @@
   {
     "Titol": {
       "CA": "Retrats",
-      "ES": "Retrats",
-      "EN": "Retrats"
+      "ES": "Retratos",
+      "EN": "Portraits"
     },
     "Id": 3
   },
@@ -27,8 +27,14 @@
     "Titol": {
       "CA": "Petricor",
       "ES": "Petricor",
-      "EN": "Petricor"
+      "EN": "Petrichor"
     },
     "Id": 4
-  }
+  },
+  {
+    "Titol": {
+      "CA": "Naked",
+      "ES": "Naked",
+      "EN": "Naked"
+   ) 
 ]
