@@ -29,9 +29,9 @@
     },
     {
       "UrlImatge": "Monstre/mons3.jpg"
-	  
     },
-	  "UrlImatge": "Monstre/mons4.jpg"  
+	{
+		"UrlImatge": "Monstre/mons4.jpg"  
 	}, 
     {
       "UrlImatge": "Monstre/mons5.jpg"
