@@ -64,6 +64,13 @@ app {
      width: 100%;
 }
 
+.titol {
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    width: 100%;
+}
+
 .additional_text {
     color: #888888;
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
