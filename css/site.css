@@ -22,9 +22,8 @@ container {
     outline: 0!important;
 }
 
-.btn-link {
-    color: gray;
-    cursor: pointer;
+.navbar {
+    justify-content: normal;
 }
 
 a {
@@ -34,8 +33,8 @@ a {
 
 .btn-primary {
     color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    background-color: black;
+    border-color: black;
 }
 
 app {
@@ -150,6 +149,14 @@ app {
 
     }
 
+    .btn-link {
+        color: gray;
+        cursor: pointer;
+        font-size: larger;
+    }
+
+        
+
     .descripcio {
         margin-left: 3rem;
         margin-right: 3rem;
@@ -237,6 +244,16 @@ app {
         flex: 0 0 50%;
     }
 
+    .btn-link {
+        color: gray;
+        cursor: pointer;
+    }
+
+    .btn-link:hover {
+        color: gray;
+        cursor: pointer;
+    }
+
     .logo {
         max-width: 100%;
     }
@@ -247,7 +264,6 @@ app {
 
     .sidebar {
         min-height: 50%;
-        height: 100vh !important;
         -ms-flex: 0 0 16.666667%;
         flex: 0 0 16.666667%;
         max-width: 16.666667%;
