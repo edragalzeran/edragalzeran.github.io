@@ -1,9 +1,9 @@
 ﻿[
   {
     "Titol": {
-      "ES": "Moroz",
-      "EN": "Moroz",
-      "CA": "Moroz"
+      "ES": "Immram",
+      "EN": "Immram",
+      "CA": "Immram"
     },
     "Id": 1
   },
@@ -17,25 +17,25 @@
   },
   {
     "Titol": {
-      "CA": "Retrats",
-      "ES": "Retratos",
-      "EN": "Portraits"
+      "CA": "Moroz",
+      "ES": "Moroz",
+      "EN": "Moroz"
     },
     "Id": 3
-  },
-  {
-    "Titol": {
-      "CA": "Petricor",
-      "ES": "Petricor",
-      "EN": "Petrichor"
-    },
-    "Id": 4
   },
   {
     "Titol": {
       "CA": "Naked",
       "ES": "Naked",
       "EN": "Naked"
+    },
+    "Id": 4
+  },
+  {
+    "Titol": {
+      "CA": "Sarmàtia",
+      "ES": "Sarmatia",
+      "EN": "Sarmatia"
 	},
 	"Id": 5
 	}
