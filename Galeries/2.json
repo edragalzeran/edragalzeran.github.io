@@ -2,8 +2,8 @@
   "Id": 2,
   "Cita": {
     "ES": "En medio de un caos caprichoso de árboles vestidos, de enredaderas que serpentean, de hojas, de agua, de tierra y barro, el monstruo acecha en el claroscuro del bosque.",
-    "CA": "En medio de un caos caprichoso de árboles vestidos, de enredaderas que serpentean, de hojas, de agua, de tierra y barro, el monstruo acecha en el claroscuro del bosque.",
-    "EN": "En medio de un caos caprichoso de árboles vestidos, de enredaderas que serpentean, de hojas, de agua, de tierra y barro, el monstruo acecha en el claroscuro del bosque."
+    "CA": "Enmig d’un cafarnaüm de branquillons, d’arbres vestits, d’enfiladisses que serpentegen, de fulles, d’aigües, de terra i fang, el monstre aguaita en el clarobscur del bosc.",
+    "EN": "In the midst of a whimsical chaos of clothed trees, winding vines, leaves, water, earth and mud, the monster lurks in the forest chiaroscuro."
 
   },
   "LiniesText": {
@@ -12,12 +12,12 @@
       "Un monstruo es aquel que muestra, aquel que advierte, aquel que no se puede nombrar, aquel que escapa del orden natural al que se aferra tan solo por un hilo que se ensancha a medida que la luz llega a la mente. Entonces se hace lenguaje y los mitos antiguos se adaptan a los nuevos tiempos dando fe de la moral, de los cambios existenciales, de los miedos a los que las sociedades se enfrentan. El monstruo se convertirá en su reflejo, también en su herramienta."
     ],
     "EN": [
-      "Con este proyecto intento sumergirme en el poliédrico concepto de \"monstruo\", en sus múltiples significados y en su evolución a lo largo del tiempo. Mis imágenes no buscan la lectura unívoca, sino que deliberadamente son ambiguas y oscilan entre la antigüedad y la modernidad, la realidad y la fantasía, lo visible y lo oculto.",
-      "Un monstruo es aquel que muestra, aquel que advierte, aquel que no se puede nombrar, aquel que escapa del orden natural al que se aferra tan solo por un hilo que se ensancha a medida que la luz llega a la mente. Entonces se hace lenguaje y los mitos antiguos se adaptan a los nuevos tiempos dando fe de la moral, de los cambios existenciales, de los miedos a los que las sociedades se enfrentan. El monstruo se convertirá en su reflejo, también en su herramienta."
+      "With this project I try to immerse myself in the polyhedral concept of "monster", in its multiple meanings and in its evolution over time. My images do not seek univocal reading, but are deliberately ambiguous and oscillate between antiquity and modernity, reality and fantasy, the visible and the hidden.",
+      "A monster is the one that shows, the one who warns, the one who cannot be named, who escapes the natural order to which it clings only by a thread that grows when the light reaches the mind. Then it comes to life in language and those ancient myths adapt to new times, attest to morals, existential changes, fears that societies face. The monster will become their reflection, but also their tool."
     ],
     "CA": [
-      "Con este proyecto intento sumergirme en el poliédrico concepto de \"monstruo\", en sus múltiples significados y en su evolución a lo largo del tiempo. Mis imágenes no buscan la lectura unívoca, sino que deliberadamente son ambiguas y oscilan entre la antigüedad y la modernidad, la realidad y la fantasía, lo visible y lo oculto.",
-      "Un monstruo es aquel que muestra, aquel que advierte, aquel que no se puede nombrar, aquel que escapa del orden natural al que se aferra tan solo por un hilo que se ensancha a medida que la luz llega a la mente. Entonces se hace lenguaje y los mitos antiguos se adaptan a los nuevos tiempos dando fe de la moral, de los cambios existenciales, de los miedos a los que las sociedades se enfrentan. El monstruo se convertirá en su reflejo, también en su herramienta."
+      "Amb aquest projecte intento submergir-me en el concepte polièdric de “monstre”, en els seus múltiples significats i en la seva evolució al llarg del temps. Les meves imatges no cerquen la lectura unívoca, sinó que deliberadament són ambigües i ballen entre l’antiguitat i la modernitat, la realitat i la fantasia, entre allò que és visible i allò que roman ocult.",
+      "Un monstre és allò que mostra, que adverteix, però que no es pot nomenar, que escapa a l’ordre natural, al qual resta aferrat només per un fil que s’eixampla a mesura que la llum arriba a  la ment. Aleshores cobra vida en el llenguatge i aquells mites antics s’adapten als nous temps, donant fe de la moral, dels canvis existencials, de les pors a les quals les societats s’enfronten. El  monstre n’esdevindrà el seu reflex, però alhora també la seva eina."
     ]
   },
   "Imatges": [
@@ -31,7 +31,7 @@
       "UrlImatge": "Monstre/mons3.jpg"
     },
 	{
-		"UrlImatge": "Monstre/mons4.jpg"  
+	 "UrlImatge": "Monstre/mons4.jpg"  
 	}, 
     {
       "UrlImatge": "Monstre/mons5.jpg"
