@@ -1,0 +1,46 @@
+﻿{
+  "Id": 4,
+  "Cita": {
+    "ES": "",
+    "CA": "",
+    "EN": ""
+
+  },
+  "LiniesText": {
+    "ES": [
+      ""
+    ],
+    "EN": [
+      ""
+    ],
+    "CA": [
+      ""
+    ]
+  },
+  "Imatges": [
+    {
+      "UrlImatge": "Naked/riu1.jpg"
+    },
+    {
+      "UrlImatge": "Naked/riu2.jpg"
+    },
+    {
+      "UrlImatge": "Naked/riu3.jpg"
+    },
+	{
+	 "UrlImatge": "Naked/riu4.jpg"  
+	}, 
+    {
+      "UrlImatge": "Naked/riu5.jpg"
+    },
+    {
+      "UrlImatge": "Naked/riu6.jpg"
+    },
+    {
+      "UrlImatge": "Naked/riu7.jpg"
+    },
+    {
+      "UrlImatge": "Naked/riu8.jpg"
+    }
+  ]
+}
