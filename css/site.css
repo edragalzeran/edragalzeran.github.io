@@ -45,6 +45,12 @@ app {
     align-items: center;
 }
 
+.top {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
 .main {
     width: 100%;
     background-position: center;
@@ -68,6 +74,11 @@ app {
     font-size: xx-large;
     text-align: center;
     width: 100%;
+}
+
+.icones {
+    position: fixed;
+    bottom: 10%;
 }
 
 .additional_text {
@@ -255,7 +266,7 @@ app {
     }
 
     .logo {
-        max-width: 100%;
+        max-width: 90%;
     }
 
     .margeTop {
