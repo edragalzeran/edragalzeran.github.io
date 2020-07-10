@@ -76,10 +76,6 @@ app {
     width: 100%;
 }
 
-.icones {
-    position: fixed;
-    bottom: 10%;
-}
 
 .additional_text {
     color: #888888;
@@ -88,6 +84,7 @@ app {
     font-style: normal;
     font-weight: normal;
     padding: 16px 0 0 0;
+    text-align: center;
 }
 
     .main .top-row {
@@ -156,8 +153,19 @@ app {
 
 
 @media (max-width: 767.98px) {
+
+    .icones {
+        position: fixed;
+        top: 5%;
+        right: 0;
+    }
+
     .sidebar {
 
+    }
+
+    .navbar {
+        display: inline-block;
     }
 
     .btn-link {
@@ -246,6 +254,12 @@ app {
 }
 
 @media (min-width: 768px) {
+
+    .icones {
+        position: fixed;
+        bottom: 10%;
+    }
+
     
     .mainView {
         max-width: 50%;
@@ -267,6 +281,11 @@ app {
 
     .logo {
         max-width: 90%;
+    }
+
+    .col-copyright {
+        flex: 0 0 52.5%;
+        max-width: 52.5%;
     }
 
     .margeTop {
