@@ -152,18 +152,51 @@ app {
 }
 
 
+.sidebar .nav-item a.active {
+    color: #6c757d;
+}
+
+
+
 @media (max-width: 767.98px) {
 
-    .icones {
-        
+    .info {
+        margin: 1rem;
     }
 
+    .col-copyright {
+        flex: 0 0 30.5%;
+        max-width: 30.5%;
+    }
+
+
+    .sidebar .nav-item a {
+        font-size: large;
+    }
+
+    .idioma {
+        padding: 2%;
+    }
+
+    .navbar-toggler {
+        vertical-align: middle;
+    }
+
+    .icona {
+        padding-left: 2%;
+    }
+
+    .icones {
+        margin: 0;
+        padding: 0;
+    }
     .sidebar {
 
     }
 
     .navbar {
         display: inline-block;
+        padding: 0;
     }
 
     .btn-link {
@@ -175,8 +208,9 @@ app {
         
 
     .descripcio {
-        margin-left: 3rem;
-        margin-right: 3rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        padding: 0; 
     }
 
     .app {
@@ -256,6 +290,11 @@ app {
 
 @media (min-width: 768px) {
 
+    .col-copyright {
+        flex: 0 0 54.5%;
+        max-width: 54.5%;
+    }
+
     .margeCopyright {
         margin-bottom: 1rem;
         margin-top: 1rem;
@@ -287,11 +326,6 @@ app {
 
     .logo {
         max-width: 90%;
-    }
-
-    .col-copyright {
-        flex: 0 0 52.5%;
-        max-width: 52.5%;
     }
 
     .margeTop {
@@ -369,9 +403,6 @@ app {
         padding: 0rem .5rem;
     }
 
-    .sidebar .nav-item a.active {
-        color: #6c757d;
-    }
 
     .sidebar .nav-item a:hover {
         font-weight: bold;
