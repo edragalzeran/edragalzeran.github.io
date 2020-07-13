@@ -33,11 +33,19 @@
   },
   {
     "Titol": {
-      "CA": "Sarmàtia",
-      "ES": "Sarmatia",
-      "EN": "Sarmatia"
+      "CA": "Terra de marge",
+      "ES": "Terra de marge",
+      "EN": "Borderland"
 	},
 	"Id": 5
-	}
+  },
+  {
+	 "Titol": {
+      "CA": "Contra naturam",
+      "ES": "Contra naturam",
+      "EN": "Contra naturam"
+	},
+	"Id": 6
+  }
   ]
 
