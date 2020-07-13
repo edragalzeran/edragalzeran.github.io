@@ -160,6 +160,10 @@ app {
 
 @media (max-width: 767.98px) {
 
+    .imatgeInicial {
+        align-content: center !important;
+    }
+
     .info {
         margin: 1rem;
     }
@@ -289,6 +293,13 @@ app {
 }
 
 @media (min-width: 768px) {
+
+    .imatgeInicial {
+        flex: 0 0 83.333333%;
+        max-width: 83.333333%;
+        margin-bottom: 0 !important;
+        margin-top: 3rem;
+    }
 
     .col-copyright {
         flex: 0 0 54.5%;
