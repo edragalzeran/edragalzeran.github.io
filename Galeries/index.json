@@ -26,8 +26,8 @@
   {
     "Titol": {
       "CA": "Riu de lluna",
-      "ES": "Río de luna",
-      "EN": "Moonriver"
+      "ES": "Ríu de lluna",
+      "EN": "Riu de lluna"
     },
     "Id": 4
   },
@@ -35,7 +35,7 @@
     "Titol": {
       "CA": "Terra de marge",
       "ES": "Terra de marge",
-      "EN": "Borderland"
+      "EN": "Terra de marge"
 	},
 	"Id": 5
   },
