@@ -1,0 +1,87 @@
+{
+  "Id": 6,
+  "Cita": {
+    "ES": "",
+    "CA": "",
+    "EN": ""
+
+  },
+  "LiniesText": {
+    "ES": [
+	  "La naturaleza es un todo que nos rodea, del que formamos parte. Después de un siglo de progreso y desmesura en pos de un crecimiento económico perpetuo, la naturaleza ha dicho basta.",
+	  "La colonización de tierras, de mares, de ríos, el embrutecimiento constante de nuestro patrimonio natural desdibuja nuestro futuro.",
+	  "A pequeña escala la situación no varía, nuestro entorno más inmediato está lleno de hallazgos no deseados, todo un catálogo contra natura."     
+    ],
+    "EN": [	
+	  "Nature is around us and we are a part of it. After a century of progress and excess in pursuit of perpetual economic growth, nature has said \"enough\".",
+      "The colonization of lands, seas, rivers, the constant brutalization of our natural heritage blurs our future.",
+      "On a small scale the situation does not change, our immediate environment is full of unwanted findings, a whole catalog against nature."
+   ],
+    "CA": [
+      "La natura és un tot que ens envolta i nosaltres en formem part. Després d’un segle de progrés i desmesura a l’encalç d’un creixement econòmic perpetu, la natura ha dit prou.",
+	  "La colonització de terres, de mars, de rius, l’embrutiment constant del nostre patrimoni natural desdibuixa el nostre futur com a espècie.",
+	  "A petita escala, l’entorn més immediat és ple de troballes no desitjades. Un passeig a prop de casa ens mostra un paisatge desolador: fàbriques ancorades en un passat de color negre, rovell enmig la malesa, andròmines escampades arreu dels boscos, les muntanyes. Tot un veritable catàleg contra natura.",
+	 "Octubre 2019"
+	 
+    ]
+  },
+  "Imatges": [
+    {
+      "UrlImatge": "Immram/ram1.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ram2.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ram3.jpg"
+    },
+	{
+	 "UrlImatge": "Immram/ram4.jpg"  
+	}, 
+    {
+      "UrlImatge": "Immram/ram5.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ram6.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ram7.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ram8.jpg"
+    },
+	{
+      "UrlImatge": "Immram/ram9.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram10.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram11.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram12.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram13.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram14.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram15.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram16.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram17.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram18.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram19.jpg"
+	}
+  ]
+}
