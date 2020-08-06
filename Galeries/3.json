@@ -38,22 +38,25 @@
       "UrlImatge": "Immram/ram2.jpg"
     },
     {
-      "UrlImatge": "Immram/ram3.jpg"
+      "UrlImatge": "Immram/fredo2.jpg"
     },
 	{
-	 "UrlImatge": "Immram/ram4.jpg"  
+	 "UrlImatge": "Immram/fredo.jpg"  
 	}, 
     {
-      "UrlImatge": "Immram/ram5.jpg"
+      "UrlImatge": "Immram/fredo5.jpg"
     },
     {
-      "UrlImatge": "Immram/ram6.jpg"
+      "UrlImatge": "Immram/pepe5.jpg"
+    },
+    {
+      "UrlImatge": "Immram/ara12.jpg"
     },
     {
       "UrlImatge": "Immram/ram7.jpg"
-    },
-    {
-      "UrlImatge": "Immram/ram9.jpg"
+	},
+	{
+	  "UrlImatge": "Immram/ram9.jpg"
 	},
 	{
 	  "UrlImatge": "Immram/ram10.jpg"
@@ -84,6 +87,5 @@
 	},
 	{
 	  "UrlImatge": "Immram/ram19.jpg"
-	}
   ]
 }
