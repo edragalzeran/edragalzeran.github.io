@@ -31,10 +31,13 @@
       "UrlImatge": "Monstre/mons3.jpg"
     },
 	{
-	 "UrlImatge": "Monstre/mons4.jpg"  
-	}, 
+	  "UrlImatge": "Monstre/mons4.jpg"  
+    }, 
+	{
+	  "UrlImatge": "Monstre/mons5.jpg"  
+    }, 
     {
-      "UrlImatge": "Monstre/mons5.jpg"
+      "UrlImatge": "Monstre/ren4.jpg"
     },
     {
       "UrlImatge": "Monstre/mons6.jpg"
@@ -45,11 +48,17 @@
     {
       "UrlImatge": "Monstre/mons8.jpg"
     },
+	{
+      "UrlImatge": "Monstre/RENEW4.jpg"
+    },
     {
       "UrlImatge": "Monstre/mons9.jpg"
     },
     {
       "UrlImatge": "Monstre/mons10.jpg"
+    },
+	{
+      "UrlImatge": "Monstre/RENEW1.jpg"
     },
     {
       "UrlImatge": "Monstre/mons11.jpg"
