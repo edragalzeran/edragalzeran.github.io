@@ -1,7 +1,41 @@
 {
   "CV": {
     "EN": [
-      "CURRICULUM EN"
+      "<b>ACADEMIC BACKGROUND</b>",
+	  "<b>2011</b>   Postgraduate in International Cultural Cooperation and Management (UB)",
+	  "<b>2005</b>   Postgraduate in International Cooperation Project Management (UOC)",
+	  "<b>2003</b>   Degree in Translation and Interpretating in the specialty of German, Russian and Italian(UAB)",
+	  "",
+	  "<b>ARTISTIC TRAINING  (PHOTOGRAPHY)</b>",
+	  "<b>2020</b>   Online course \"Seeing through Photographs\" by Sarah Meister, <i>curator</i> at MoMA's Department of Photography",
+	  "<b>2019</b>   Advanced Photography course (Only last term) - Escola de Fotografia Multifotos",
+	  "<b>2019</b>   Wet Plate Collodion workshop  - Escola de Fotografia Multifotos",
+	  "<b>2017</b>   Cyanotype Workshop  - Escola de Fotografia Multifotos",
+	  "<b>2016</b>   Introduction course to analog photography (3 months) - Escola de Fotografia Multifotos",
+	  "<b>2013</b>   Introduction course to analog photography (3 months) - Centre cívic Pati Llimona",
+	  "<b>2005</b>   Intensive course of photography (1 month) - Kiev School of Photography",
+	  "",
+	  "<b>ARTISTIC TRAINING  (PAINTING)</b>",
+	  "<b>2019</b>   Experimentation and introduction to drawing languages (III) - Escola Municipal d'Art de Girona",
+	  "<b>2018</b>   Drawing Course (II) – Escola Municipal d’Art de Girona",
+	  "<b>2018</b>   Painting Course  (II) - Escola Municipal d'Art de Girona",
+	  "<b>2017</b>   Painting Course  (II) - Escola Municipal d'Art de Girona",
+	  "<b>2016</b>   Human Figure Course (2 months)  - Escola Municipal d'Art de Girona",
+	  "<b>2008</b>   “Color and texture” painting course (2 months) - Casa Elizalde",
+	  "<b>2008</b>   Landscape painting course (1 month) - Casa Elizalde",
+	  "<b>2006</b>   Preparatory course of drawing and painting (6 months)  - Kiev School of Fine Arts",
+	  "",
+	  "<b>PREMIS I PUBLICACIONS</b>",
+	  "<b>2018</b>   Participation with one work in the 6th edition of the fanzine “Imbécil” from the artistic collective \"Virtual Room\"",
+	  "<b>2018</b>   Publication of two photographs in the digital magazine \"F-Stop magazine\"",
+	  "<b>2014</b>   Finalist in the third photo contest \"Helie Memorial\"",
+	  "<b>2013</b>   Third prize in the LVII Free Theme Photography Contest of l'Agrupació Fotogràfica de Catalunya",
+	  "",
+	  "<b>EXPOSICIONS COL·LECTIVES</b>",
+	  "<b>2020</b>   Multidisciplinary exhibition. Independent Art Festival Pepe Sales at l'Escola Municipal d'Art de Girona",
+	  "<b>2019</b>   Photography exhibition \"Calidoscopi\" at Museu Can Trincheria, Olot",
+	  "<b>2014</b>   Finalist exhibition of the LVII Free Theme Photography Contest of l'Agrupació Fotogràfica de Catalunya",
+	  "<b>2013</b>   Students exhibition  at Centre Cívic Pati Llimona"
     ],
     "CA": [
       "<b>FORMACIÓ ACADÈMICA</b>",
@@ -20,12 +54,13 @@
 	  "",
 	  "<b>FORMACIÓ ARTÍSTICA (PINTURA)</b>",
 	  "<b>2019</b>   Curs d'experimentació i iniciació als llenguatges del dibuix (III) - Escola Municipal d'Art de Girona",
+	  "<b>2018</b>   Curs de dibuix (II) – Escola Municipal d’Art de Girona",
 	  "<b>2018</b>   Curs de pintura (II) - Escola Municipal d'Art de Girona",
 	  "<b>2017</b>   Curs de pintura (II) - Escola Municipal d'Art de Girona",
 	  "<b>2016</b>   Curs de Figura Humana (2 mesos) - Escola Municipal d'Art de Girona",
 	  "<b>2008</b>   Curs de pintura \"Color i textura\" (2 mesos) - Casa Elizalde",
 	  "<b>2008</b>   Curs de pintura paisatgística (1 mes) - Casa Elizalde",
-	  "<b>2006</b>   Curs preparatori de dibuix i pintura (6 mesos) -Escola de Belles Arts de Kíev",
+	  "<b>2006</b>   Curs preparatori de dibuix i pintura (6 mesos) - Escola de Belles Arts de Kíev",
 	  "",
 	  "<b>PREMIS I PUBLICACIONS</b>",
 	  "<b>2018</b>   Publicació d'una obra en l'edició nº 6, \"Enamorat\", del fanzine \"Imbècil\", del col·lectiu artístic \"Virtual Room\"",
@@ -37,8 +72,7 @@
 	  "<b>2020</b>   Exposició multidisciplinar amb motiu del Festival d'Art Independent Pepe Sales a l'Escola Municipal d'Art de Girona",
 	  "<b>2019</b>   Exposició de fotografia \"Calidoscopi\" al Museu Can Trincheria, Olot",
 	  "<b>2014</b>   Exposició de premiats i finalistes del LVIIè Concurs de Tema LLiure de l’Agrupació Fotogràfica de Catalunya",
-	  "<b>2013</b>   Exposició d'alumnes al Centre Cívic Pati Llimona",
-	  "<b>2006</b>   Participació en la Fira Internacional de Fotografia de Kíev"
+	  "<b>2013</b>   Exposició d'alumnes al Centre Cívic Pati Llimona"
     ],
     "ES": [
       "<b>FORMACIÓN ACADÉMICA</b>",
@@ -75,8 +109,7 @@
       "<b>2020</b>   Exposición multidisciplinar con motivo del Festival d’Art Independent Pepe Sales en l’Escola Municipal d’Art de Girona",
       "<b>2019</b>   Exposición de fotografia “Calidoscopi” en el Museu Can Trincheria, Olot.",
 	  "<b>2014</b>   Exposición de premiados y finalistas del LVII Concurso de Tema Libre de la Agrupació Fotogràfica de Catalunya",
-      "<b>2013</b>   Exposición de alumnos en el Centre cívic Pati Llimona.",
-      "<b>2006</b>   Participación en la Feria Internacional de Fotografía de Kiev."
+      "<b>2013</b>   Exposición de alumnos en el Centre cívic Pati Llimona."
     ]
   }
 }
