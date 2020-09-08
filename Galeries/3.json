@@ -39,9 +39,6 @@
       "UrlImatge": "Immram/ram2.jpg"
     },
 	{
-      "UrlImatge": "Immram/vis3.jpg"
-    },
-	{
       "UrlImatge": "Immram/renew2.jpg"
     },
     {
@@ -96,16 +93,11 @@
 	  "UrlImatge": "Immram/ram16.jpg" 
 	},
 	{
-	  "UrlImatge": "Immram/ram8.jpg"
-	},
-	{
 	  "UrlImatge": "Immram/ram17.jpg"
 	},
 	{
 	  "UrlImatge": "Immram/ram18.jpg"
 	},
-	{
-	  "UrlImatge": "Immram/ram19.jpg"
 	} 
   ]
 }
