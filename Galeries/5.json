@@ -1,0 +1,358 @@
+{
+  "Id": 5,
+  "Cita": {
+    "ES": "",
+    "CA": "",
+    "EN": ""
+
+  },
+  "LiniesText": {
+    "ES": [
+      "<p style=\"text-align:justify\">Aterrizo en Ucrania en agosto de 2004. Durante casi tres años y medio, trabajo, paseo, viajo,  por esta tierra condenada al margen, y cuando la luz me lo permite, tan huidiza por estos lares, también hago fotos. Me compro una modesta Nikon F75 y capturo con mi objetivo todo lo que me llama la atención. Es un proceso espontáneo, pero se convierte casi en una necesidad. No hay pensamiento, pero sí pulsión. El destino de estas fotos será el típico cajón de las cosas olvidadas. Doce años después, sin embargo, en esta primavera de forzada lentitud, escaneando viejos negativos, reencuentro la mirada de entonces a la vez que advierto que el margen cada vez es más amplio.</p>",
+	  "<p style=\"text-align:right\"><i>(Fotos realizadas entre 2004 y 2008 compiladas la primavera de 2020)</i></p>"
+    ],
+    "EN": [
+      "<p style=\"text-align:justify\">I landed in Ukraine in August 2004. For almost three and a half years, I worked, I walked, I traveled through this borderland, and when the light allowed it, so evasive in these parts, I also took photos. I bought a modest Nikon F75 and captured with my lens everything that struck me. It was a spontaneous process, but it became almost a need. There was drive, but no thought. The destination of these photos was nothing other than the typical drawer of forgotten things. However, twelve years later, in this spring of forced slowness, scanning old negatives, I rediscover that gaze as I realize that the border is growing.",
+	  "<p style=\"text-align:right\"><i>(Photos taken between 2004 and 2008, compiled in spring 2020)</i></p>"
+    ],
+    "CA": [
+      "<p style=\"text-align:justify\">Aterro a Ucraïna l’agost de 2004. Durant gairebé tres anys i mig, treballo, passejo, viatjo, per aquesta terra condemnada al marge, i quan la llum, fugissera, m’ho permet, faig fotos. Em compro una modesta Nikon F75 i capturo amb el meu objectiu tot el que em crida l’atenció. És un procés espontani que esdevé, però, quasi una necessitat. No hi ha pensament, però sí pulsió. El destí d’aquestes fotos serà el típic calaix de les coses oblidades. Tanmateix dotze anys després, en aquesta primavera de lentitud forçada, escanejant vells negatius, retrobo la mirada d’aleshores tot copsant que el marge cada cop és més ample.",
+	  "<p style=\"text-align:right\"><i>(Fotos fetes entre 2004 i 2008 compilades la primavera de 2020)</i></p>"
+    ]
+  },
+  "Imatges": [
+    {
+      "UrlImatge": "Terra de marge/marge1.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge2.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge3.jpg"
+    },
+	{
+	 "UrlImatge": "Terra de marge/marge4.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge5.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge6.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge7.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge9.jpg"
+    },
+	{
+	  "UrlImatge": "Terra de marge/marge10.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge11.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge12.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge13.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge15.jpg" 
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge36.jpg" 
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge17.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge19.jpg"
+	},
+	 {
+      "UrlImatge": "Terra de marge/marge18.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge20.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge21.jpg"
+	}, 
+	{
+      "UrlImatge": "Terra de marge/marge22.jpg"
+	}, 
+	{
+      "UrlImatge": "Terra de marge/marge23.jpg"
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge24.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge25.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge26.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge73.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge27.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge28.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge29.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge30.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge31.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge32.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge33.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge34.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge35.jpg"
+	},
+	{
+	 "UrlImatge": "Terra de marge/marge37.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marg39.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge99.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge100.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge40.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge48.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge42.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge43.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge44.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge41.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge46.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge49.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge50.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge51.jpg"
+	},
+    {
+      "UrlImatge": "Terra de marge/marge52.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge53.jpg"
+    },
+	{
+	 "UrlImatge": "Terra de marge/marge54.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge55.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge56.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge57.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge58.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge59.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge60.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge61.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge62.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge63.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge64.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge66.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge67.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge68.jpg"
+	},
+	{
+      "UrlImatge": "Terra de marge/marge69.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge71.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge72.jpg"
+    },
+	{
+	 "UrlImatge": "Terra de marge/marge75.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge76.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge77.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge78.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge79.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge80.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge81.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge83.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge82.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge85.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge86.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge87.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge88.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge125.jpg"
+	},
+    {
+      "UrlImatge": "Terra de marge/marge89.jpg"
+    },
+	{
+	 "UrlImatge": "Terra de marge/marge90.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge91.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge92.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge95.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge96.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge121.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge97.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge98.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge101.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge102.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge103.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge104.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge105.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge106.jpg"
+	},
+    {
+      "UrlImatge": "Terra de marge/marge107.jpg"
+    },
+	{
+	 "UrlImatge": "Terra de marge/marge111.jpg"  
+	}, 
+    {
+      "UrlImatge": "Terra de marge/marge108.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge114.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge109.jpg"
+    },
+    {
+      "UrlImatge": "Terra de marge/marge113.jpg"
+    },
+	{
+      "UrlImatge": "Terra de marge/marge115.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge116.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge117.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge112.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge118.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge119.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge123.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge126.jpg"
+	},
+	{
+	  "UrlImatge": "Terra de marge/marge127.jpg"
+	}
+  ]
+}
