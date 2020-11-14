@@ -1,0 +1,9 @@
+{
+  "name": "WebOlga",
+  "short_name": "WebOlga",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",  
+  ]
+}
