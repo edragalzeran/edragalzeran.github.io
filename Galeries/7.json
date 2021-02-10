@@ -1,0 +1,25 @@
+{
+  "Id": 7,
+  "Cita": {
+    "ES": "",
+    "CA": "",
+    "EN": ""
+
+  },
+  "LiniesText": {
+    "ES": [
+      "WORK IN PROGRESS"
+    ],
+    "EN": [
+      "WORK IN PROGRESS"
+    ],
+    "CA": [
+      "WORK IN PROGRESS"
+    ]
+  },
+  "Imatges": [
+    {
+      "UrlImatge": "Tierra1.jpg"
+    }
+  ]
+}
