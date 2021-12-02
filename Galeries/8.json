@@ -1,0 +1,28 @@
+{
+  "Id": 8,
+  "Cita": {
+    "ES": "",
+    "CA": "",
+    "EN": ""
+
+  },
+  "LiniesText": {
+    "ES": [
+	"                                                                                                                                                                                                                                    ",
+      "<p style=\"text-align:center\">(WORK IN PROGRESS)</p>"
+    ],
+    "EN": [
+	"                                                                                                                                                                                                                                                                         ",
+      "<p style=\"text-align:center\">(WORK IN PROGRESS)</p>"
+    ],
+    "CA": [
+	"                                                                                                                                                                                                                                                                         ",
+      "<p style=\"text-align:center\">(WORK IN PROGRESS)</p>"
+    ]
+  },
+  "Imatges": [
+    {
+      "UrlImatge": "Iberia/iberia1.jpg"
+    }
+  ]
+}
