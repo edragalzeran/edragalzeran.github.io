@@ -39,6 +39,9 @@
       "UrlImatge": "Immram/ram2.jpg"
     },
 	{
+      "UrlImatge": "Immram/IM4ferfoc.jpg"
+    },
+	{
       "UrlImatge": "Immram/vis3.jpg"
     },
     {
@@ -79,6 +82,9 @@
 	},
 	{
 	  "UrlImatge": "Immram/ram16.jpg" 
+	},
+	{
+	  "UrlImatge": "Immram/ferfoc.jpg" 
 	},
     {
 	  "UrlImatge": "Immram/ram19.jpg"
