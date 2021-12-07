@@ -44,9 +44,6 @@
     {
       "UrlImatge": "Immram/fredo2.jpg"
     },
-	{
-	 "UrlImatge": "Immram/fredo.jpg"  
-	}, 
     {
       "UrlImatge": "Immram/fredo5.jpg"
     },
@@ -83,11 +80,8 @@
 	{
 	  "UrlImatge": "Immram/ram16.jpg" 
 	},
-	{
-	  "UrlImatge": "Immram/ram17.jpg"
-	},
-	{
-	  "UrlImatge": "Immram/ram18.jpg"
+    {
+	  "UrlImatge": "Immram/ram19.jpg"
 	} 
   ]
 }
