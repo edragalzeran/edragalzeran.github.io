@@ -8,6 +8,9 @@
   },
   "LiniesText": {
     "ES": [
+      "<p style=\"text-align:justify\">\"Immram\" en gaélico antiguo significa viaje. También da nombre a un tipo de relato de la literatura irlandesa en el que un héroe emprende un viaje al Otro mundo, un lugar comúnmente situado en las islas más occidentales de Irlanda.",
+	  "El mío es un paseo visual, emocional, por el frío, la nieve, el silencio.",
+	  "<p style='text-align:center'>*****</p>",
 	  "<p style=\"text-align:justify\">Expuestas a un viento que brama, a un océano que ruge, una isla, varias, se erigen, cual motas en el vientre del mar, en símbolo, en mito, de la cultura atlántica.",
 	  "<p style=\"text-align:justify\">Una bruma salada esconde sus contornos, mientras las olas, majestuosas, impiden al viajero observar este singular erial de piedra. The <i>Height of the waves</i>, dicen, es el nombre de la isla más grande y enormes eran las olas que los lugareños cabalgaban a bordo de sus rudimentarios <i>curraghs</i> confeccionados a base de cuero y leño. Estos marineros, temerarios a la vez que temerosos, confiaban su seguridad a su desconocimiento. Sin saber nadar, decían, la mala mar te hará quedarte en casa. Pero aún la buena mar siempre tiene hambre y devora a los que la desafían, a los que en ella se adentran. Para reconocer sus cuerpos, cuentan, vestían gruesos jerséis de lana con diseños únicos que cada familia tejía.",
 	  "<p style=\"text-align:justify\">La isla se presenta abrupta, escarpada, pedregosa, salvajemente bella, imbuida de misterio y fatalidad. Su paisaje no invita al asentamiento, y, sin embargo, estas piedras, estos muros, hace mucho ya que no están solos. Este desierto de roca vio bosques que devinieron combustible para paliar las largas y sibilantes noches de invierno. La tierra acabó desancorándose y la erosión de todo se hizo dueña. Sus gentes sobrevivieron levantando piedras, construyendo muros laberínticos y fabricando de nuevo vida, tierra, suelo, con musgos, líquenes, arena, algas y estiércol.",
@@ -15,6 +18,9 @@
 	   "<p style=\"text-align:right\"><i>-Septiembre 2020-</i></p>"
     ],
     "EN": [	
+	  "<p style=\"text-align:justify\">The word \"Immram\" is the old Irish word for \"journey\". It is also the name of a kind of story in Irish literature about a hero’s sea voyage to the Otherworld, a place usually located on the westernmost islands of Ireland.",
+	  "<p style=\"text-align:justify\">My Immram project is a journey to the Otherworld, to my own Otherworld. It’s a journey between past and present, between truth and fantasy, between paganism and Christianity. It is my winter journey to an ancient, hostile island in the west of Ireland, where all sorts of beliefs are permeable, where, like a two-sided mirror, the common essence and the dual character of human beings and nature are reflected; both their fragility and their strength as well as their ability to heal each other.",
+	  "<p style='text-align:center'>*****</p>",	
 	  "<p style=\"text-align:justify\">Exposed to a furious wind, to a roaring ocean, an island, several, like specks in the belly of the sea, set themselves up as a symbol, as a myth of the Atlantic culture.",
 	  "<p style=\"text-align:justify\">A salty mist hides its contours, while the majestic waves prevent the traveller from observing this unique stone wasteland. The Height of the waves, they say, is the name of the largest island and huge were the waves that the locals rode on board their rudimentary curraghs made from leather and log. These sailors, reckless as well as fearful, entrusted their safety to their ignorance. Without being able to swim, they said, the rough sea will make you stay at home. But even the calm sea is always hungry and devours those who challenge it, those who jump into it. They say that in order to identify the corpses, they wore thick woollen sweaters with unique patterns that each family knitted.",
 	  "<p style=\"text-align:justify\">The island appears abrupt, rugged, stony, wildly beautiful, imbued with mystery and doom. The landscape does not encourage settlement, and yet these stones, these walls were not alone for a long time. This rocky desert saw forests that became fuel to soothe the long and whistling winter nights. The land ended up detaching from the ground and erosion took possession of all. The people survived by lifting stones, building labyrinth walls and creating life, land, soil again, with mosses, lichens, sand, dung, and algae.",
@@ -40,7 +46,7 @@
     },
 	{
       "UrlImatge": "Immram/IM4ferfoc.jpg"
-    },
+    },<
 	{
       "UrlImatge": "Immram/vis3.jpg"
     },
